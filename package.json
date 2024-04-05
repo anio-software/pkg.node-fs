@@ -1,6 +1,6 @@
 {
   "name": "@anio-software/fs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Collection of async/sync fs methods.",
   "main": "./dist/package.min.mjs",
   "typings": "./dist/index.d.ts",
