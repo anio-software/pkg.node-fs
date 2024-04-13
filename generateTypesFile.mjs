@@ -20,7 +20,6 @@ export default function() {
 		for (const pkg of packages) {
 			const mod = require.resolve(pkg)
 			const mod_dist_root = path.dirname(mod)
-			const mod_types = path.join(mod_dist_root, "index.d.ts")
 
 			types += `export * from "${pkg}"\n`
 		}
