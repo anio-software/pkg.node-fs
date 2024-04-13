@@ -12,7 +12,8 @@ export default function() {
 			"@anio-fs/is",
 			"@anio-fs/mkdirp",
 			"@anio-fs/remove",
-			"@anio-fs/scandir"
+			"@anio-fs/scandir",
+			"@anio-fs/tmp"
 		]
 
 		const require = createRequire(vipen_session.getProjectRoot() + "/index.js")

@@ -32,6 +32,12 @@ import {
 	removeSync,
 
 	scandir,
-	scandirSync
+	scandirSync,
+
+	tmpdir,
+	tmpdirSync,
+
+	tmpfile,
+	tmpfileSync
 } from "@anio-software/fs"
 ```

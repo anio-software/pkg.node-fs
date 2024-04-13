@@ -8,7 +8,8 @@ export default function() {
 			"@anio-fs/is",
 			"@anio-fs/mkdirp",
 			"@anio-fs/remove",
-			"@anio-fs/scandir"
+			"@anio-fs/scandir",
+			"@anio-fs/tmp"
 		]
 
 		for (const pkg of packages) {
