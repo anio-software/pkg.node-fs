@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@anio-fs/clean": "^1.1.4",
-    "@anio-fs/file": "^0.1.0",
+    "@anio-fs/file": "0.2.0",
     "@anio-fs/is": "^1.1.0",
     "@anio-fs/mkdirp": "^1.0.1",
     "@anio-fs/remove": "^4.0.3",
