@@ -18,11 +18,11 @@
     "@anio-fs/remove": "^4.0.3",
     "@anio-fs/scandir": "^4.2.1",
     "@anio-fs/tmp": "^1.0.1",
-    "@vipen/target-js": "0.17.0",
-    "vipen": "0.2.1"
+    "@fourtune/realm-js": "^0.1.0",
+    "fourtune": "^0.0.1"
   },
   "scripts": {
-    "prepare": "./node_modules/.bin/vipen ."
+    "prepare": "./node_modules/.bin/fourtune ."
   },
   "files": [
     "./dist/"
