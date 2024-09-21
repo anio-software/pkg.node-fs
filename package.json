@@ -13,11 +13,11 @@
   "devDependencies": {
     "@anio-fs/clean": "^2.0.0",
     "@anio-fs/file": "0.2.1",
-    "@anio-fs/is": "^1.1.0",
+    "@anio-fs/is": "^2.0.0",
     "@anio-fs/mkdirp": "^2.0.0",
     "@anio-fs/remove": "^5.0.0",
     "@anio-fs/scandir": "^5.0.1",
-    "@anio-fs/tmp": "^1.0.1",
+    "@anio-fs/tmp": "^2.0.0",
     "@fourtune/realm-js": "^0.1.0",
     "fourtune": "^0.0.1"
   },
