@@ -16,7 +16,7 @@
     "@anio-fs/is": "^2.0.0",
     "@anio-fs/mkdirp": "^2.0.0",
     "@anio-fs/remove": "^5.0.0",
-    "@anio-fs/scandir": "^5.0.1",
+    "@anio-fs/scandir": "^5.1.0",
     "@anio-fs/tmp": "^2.0.0",
     "@fourtune/realm-js": "^0.1.0",
     "fourtune": "^0.0.1"
