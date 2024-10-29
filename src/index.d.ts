@@ -1,1 +1,1 @@
-export * from "./auto/types.d.ts"
+export type * from "./auto/types.d.ts"
