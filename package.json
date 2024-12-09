@@ -18,8 +18,9 @@
     "@anio-fs/remove": "^5.0.0",
     "@anio-fs/scandir": "^5.2.0",
     "@anio-fs/tmp": "^2.0.0",
-    "@fourtune/realm-js": "^0.1.0",
-    "fourtune": "^0.0.1"
+    "@fourtune/core": "^0.1101.0",
+    "@fourtune/realm-js": "^0.31000.4",
+    "fourtune": "^0.30000.0"
   },
   "scripts": {
     "prepare": "./node_modules/.bin/fourtune ."
