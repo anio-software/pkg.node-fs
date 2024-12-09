@@ -1,4 +1,4 @@
-# @anio-software/fs
+# @aniojs/node-fs
 
 Collection of async/sync fs methods.
 
@@ -39,5 +39,5 @@ import {
 
 	tmpfile,
 	tmpfileSync
-} from "@anio-software/fs"
+} from "@aniojs/node-fs"
 ```
