@@ -27,7 +27,7 @@
     "@aniojs/node-fs-scandir": "^0.2.4",
     "@aniojs/node-fs-tmp": "^0.1.4",
     "@fourtune/core": "^0.1101.0",
-    "@fourtune/realm-js": "^1.0.3",
+    "@fourtune/realm-js": "^1.0.5",
     "fourtune": "^0.30000.1"
   },
   "peerDependencies": {
