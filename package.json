@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "name": "@anio-software/pkg.node-fs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Collection of async/sync file system methods.",
   "author": "Anio Software <info@anio.software>",
   "repository": {
