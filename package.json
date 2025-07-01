@@ -1,6 +1,6 @@
 {
-  "name": "@aniojs/node-fs",
-  "version": "0.6.0",
+  "name": "@anio-software/pkg.node-fs",
+  "version": "0.0.0",
   "author": "Anio Software <info@anio.software>",
   "description": "Collection of async/sync fs methods.",
   "license": "MIT",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aniojs-org/node-fs.git"
+    "url": "git+https://github.com/anio-software/pkg.node-fs.git"
   },
   "type": "module",
   "devDependencies": {
