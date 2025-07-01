@@ -1,3 +1,3 @@
 # @anio-software/pkg.node-fs
 
-Collection of async/sync fs methods.
+Collection of async/sync file system methods.
