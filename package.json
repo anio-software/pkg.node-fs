@@ -10,6 +10,9 @@
   },
   "type": "module",
   "devDependencies": {
+    "@anio-software/enkore": "^0.0.104",
+    "@anio-software/enkore.core": "^0.11.2",
+    "@anio-software/enkore.target-js-node": "^0.0.259-canary-390192b1-2480e47a",
     "@aniojs/node-fs-clean-directory": "^0.1.5",
     "@aniojs/node-fs-copy": "^0.1.4",
     "@aniojs/node-fs-file": "^0.3.2",
