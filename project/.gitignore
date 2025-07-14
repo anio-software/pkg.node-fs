@@ -1,2 +1,12 @@
 # This file is automatically managed by enkore
 # DO NOT ADD ENTRIES HERE, THEY WILL BE REMOVED
+/export/copy/__aggregatedExports.ts
+/export/file/__aggregatedExports.ts
+/export/is/__aggregatedExports.ts
+/export/mkdir/__aggregatedExports.ts
+/export/path-type/__aggregatedExports.ts
+/export/remove/__aggregatedExports.ts
+/export/resolve/__aggregatedExports.ts
+/export/scandir/__aggregatedExports.ts
+/export/stat-path/__aggregatedExports.ts
+/export/tmp/__aggregatedExports.ts
