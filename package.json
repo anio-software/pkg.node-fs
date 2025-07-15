@@ -14,15 +14,15 @@
     "@anio-software/enkore": "^0.0.190",
     "@anio-software/enkore.core": "^0.13.1",
     "@anio-software/enkore.target-js-node": "^0.0.404",
-    "@anio-software/pkg.node-fs-copy": "^0.0.20",
-    "@anio-software/pkg.node-fs-file": "^0.0.20",
-    "@anio-software/pkg.node-fs-is": "^0.0.20",
-    "@anio-software/pkg.node-fs-mkdir": "^0.0.20",
-    "@anio-software/pkg.node-fs-path-type": "^0.0.20",
-    "@anio-software/pkg.node-fs-remove": "^0.0.20",
-    "@anio-software/pkg.node-fs-resolve": "^0.0.20",
-    "@anio-software/pkg.node-fs-scandir": "^0.0.20",
-    "@anio-software/pkg.node-fs-stat-path": "^0.0.20",
-    "@anio-software/pkg.node-fs-tmp": "^0.0.20"
+    "@anio-software/pkg.node-fs-copy": "^0.0.21",
+    "@anio-software/pkg.node-fs-file": "^0.0.21",
+    "@anio-software/pkg.node-fs-is": "^0.0.22",
+    "@anio-software/pkg.node-fs-mkdir": "^0.0.21",
+    "@anio-software/pkg.node-fs-path-type": "^0.0.22",
+    "@anio-software/pkg.node-fs-remove": "^0.0.21",
+    "@anio-software/pkg.node-fs-resolve": "^0.0.21",
+    "@anio-software/pkg.node-fs-scandir": "^0.0.21",
+    "@anio-software/pkg.node-fs-stat-path": "^0.0.22",
+    "@anio-software/pkg.node-fs-tmp": "^0.0.22"
   }
 }
